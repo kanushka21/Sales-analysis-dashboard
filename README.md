@@ -4,7 +4,7 @@
 
 This project analyzes a global e-commerce sales dataset using **Python** for data analysis and **Power BI** for interactive dashboard visualization. The goal is to identify sales trends, customer behavior, product performance, and profitability to support business decision-making.
 
----
+
 
 ## 🎯 Objectives
 
@@ -15,7 +15,7 @@ This project analyzes a global e-commerce sales dataset using **Python** for dat
 - Study the relationship between discount and profit
 - Build an interactive dashboard for business insights
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -26,7 +26,7 @@ This project analyzes a global e-commerce sales dataset using **Python** for dat
 - Power BI
 - DAX
 
----
+
 
 ## 📂 Dataset Features
 
@@ -48,7 +48,7 @@ The dataset includes:
 - Profit
 - Payment Method
 
----
+
 
 ## 📈 Python Analysis
 
@@ -66,7 +66,7 @@ The following analyses were performed using Python:
 - Correlation Heatmap
 - Data Visualization
 
----
+
 
 ## 📊 Power BI Dashboard
 
@@ -100,7 +100,7 @@ The dashboard consists of four interactive pages:
 - Shipping Cost by Region
 - Sales vs Profit Bubble Chart
 
----
+
 
 ## 📷 Dashboard Preview
 
@@ -108,19 +108,23 @@ The dashboard consists of four interactive pages:
 
 Example:
 
-```
-images/
-│── page1.png
-│── page2.png
-│── page3.png
-│── page4.png
-```
 
----
+│── page1.png
+    <img width="1090" height="860" alt="page1" src="https://github.com/user-attachments/assets/95ec8ad3-388b-4ac1-b1de-effe656fe8d9" />
+
+│── page2.png
+    <img width="1062" height="811" alt="page2" src="https://github.com/user-attachments/assets/30dd6a54-8352-4a57-957e-4d15e61e7c42" />
+
+│── page3.png
+    <img width="995" height="787" alt="page3" src="https://github.com/user-attachments/assets/2c72c3d2-64a7-41b7-8f30-a3ece6fd9b93" />
+
+│── page4.png
+    <img width="997" height="781" alt="page4" src="https://github.com/user-attachments/assets/fd89cd1a-06d4-4f45-9d4a-08967e03754f" />
+
+
 
 ## 📁 Project Structure
 
-```
 Sales-Analysis/
 │
 ├── Dataset/
@@ -139,9 +143,9 @@ Sales-Analysis/
 │   └── page4.png
 │
 └── README.md
-```
 
----
+
+
 
 ## 📌 Key Insights
 
@@ -151,7 +155,7 @@ Sales-Analysis/
 - Higher discounts generally reduced profitability.
 - Customer purchasing patterns varied across regions and categories.
 
----
+
 
 ## 🚀 Future Improvements
 
@@ -160,7 +164,7 @@ Sales-Analysis/
 - Include customer retention analysis.
 - Build a machine learning sales prediction model.
 
----
+
 
 ## 👨‍💻 Author
 
